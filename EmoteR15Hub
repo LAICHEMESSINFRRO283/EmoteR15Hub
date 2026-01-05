@@ -579,7 +579,7 @@ local animations = {
 	{name = "Ya ya ying ", id = 94732447775045, speed = 1, timepos = 0},
 	{name = "GuitarHeadbanger ", id = 121159597054506, speed = 1, timepos = 0},
     {name = "HardBounce ", id = 84421068812912, speed = 1, timepos = 0},
-    {name = "SkeletonShield ", id = 81217031472771, speed = 1.1, timepos = 0},
+    {name = "SkeletonShield ", id = 81217031472771, speed = 1.3, timepos = 0},
     {name = "Praise ", id = 103305031554072, speed = 1, timepos = 0},
     {name = "YesArrestMe ", id = 132631693557723, speed = 1, timepos = 0},
     {name = "PainAndSuffering ", id = 94938339459774, speed = 1, timepos = 0},
