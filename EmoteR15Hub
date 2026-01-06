@@ -587,6 +587,7 @@ local animations = {
     {name = "AbsoluteCinema ", id = 137483785463787, speed = 1, timepos = 0},
     {name = "Cart ", id = 77122264773140, speed = 1, timepos = 0},
     {name = "ClimbingStairs ", id = 133780336745031, speed = 1, timepos = 0},
+    {name = "BottomUpDance ", id = 108710465329929, speed = 1, timepos = 0},
 }
 
 local activeTracks = {}
