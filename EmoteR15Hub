@@ -588,8 +588,6 @@ local animations = {
     {name = "Cart ", id = 77122264773140, speed = 1, timepos = 0},
     {name = "ClimbingStairs ", id = 133780336745031, speed = 1, timepos = 0},
     {name = "BottomUpDance ", id = 108710465329929, speed = 1, timepos = 0},
-    {name = "Peekaboo ", id = 93797728107246, speed = 1, timepos = 0},
-    {name = "Watchu lookin" At ", id = 70790011170604, speed = 1, timepos = 0},
 }
 
 local activeTracks = {}
