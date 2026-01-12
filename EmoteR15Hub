@@ -587,6 +587,10 @@ local animations = {
     {name = "PeeKaaBoo", id = 93797728107246, speed = 1, timepos = 0},
     {name = "Watchu Lookin At", id = 70790011170604, speed = 1, timepos = 0},
     {name = "BabyTuEresMala", id = 128030484419917, speed = 1, timepos = 0,},
+    {name = "ShowerDance", id = 110950690818444, speed = 1, timepos = 0,},
+    {name = "SouthParkAlienExperiment", id = 84845580372155, speed = 1, timepos = 0,},
+    {name = "CelebrationHips", id = 77065803709724, speed = 1, timepos = 0,},
+    {name = "MassiveTurd", id = 113388468967463, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
