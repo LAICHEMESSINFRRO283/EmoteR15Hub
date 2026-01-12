@@ -373,7 +373,7 @@ local animations = {
     {name = "Shoulder Tap", id = 73380029147083, speed = 1, timepos = 0},
     {name = "KorbloxAndHeadless", id = 97069996546256, speed = 0, timepos = 0},
     {name = "Diareha v2", id = 80745177719793, speed = 1, timepos = 0},
-    {name = "See tinh", id = 119003686253577, speed = 1, timepos = 0},
+    {name = "See tinh", id = 119003686253577, speed = 1, timepos = 0, duration = 7.2},
     {name = "Crazy Back Lean", id = 98601053422164, speed = 0, timepos = 7},
     {name = "Kazootsky kick (Real)", id = 82405331497617, speed = 1, timepos = 0},
     {name = "BrazilianLuffy(Real)", id = 82469812342026, speed = 1, timepos = 0},
@@ -586,7 +586,7 @@ local animations = {
     {name = "BottomUpDance", id = 108710465329929, speed = 1, timepos = 0},
     {name = "PeeKaaBoo", id = 93797728107246, speed = 1, timepos = 0},
     {name = "Watchu Lookin At", id = 70790011170604, speed = 1, timepos = 0},
-    {name = "BabyTuEresMala", id = 128030484419917, speed = 1, timepos = 0},
+    {name = "BabyTuEresMala", id = 128030484419917, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
