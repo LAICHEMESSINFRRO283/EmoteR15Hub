@@ -594,6 +594,7 @@ local animations = {
     {name = "NeckRoll", id = 126557734418320, speed = 1, timepos = 0,},
     {name = "Flea Kicker", id = 75497865924760, speed = 1, timepos = 0,},
     {name = "Tabby Tackle", id = 139170540242188, speed = 1, timepos = 0,},
+    {name = "Sinking", id = 93193438936298, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
