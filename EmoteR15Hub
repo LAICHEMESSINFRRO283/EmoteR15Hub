@@ -560,6 +560,8 @@ local animations = {
     {name = "Flippin", id = 81051966180535, speed = 1, timepos = 0},
     {name = "BouncyShake", id = 106459899273495, speed = 1, timepos = 0},
     {name = "JerkOff", id = 109504923183954, speed = 1, duration = 1.05},
+    {name = "SeGratterLeCul", id = 698251653, speed = 0.45, timepos = 0.78, duration = 0.23},
+    {name = "AncienJerkOff", id = 698251653, speed = 0.30, timepos = 0.59, duration = 0.17},
     {name = "Cooldance", id = 101765995650125, speed = 1, timepos = 0},
     {name = "HeadFloor", id = 130877332844004, speed = 1, timepos = 0},
     {name = "InvisibleTest", id = 138595763987685, speed = 0, timepos = 80},
@@ -596,8 +598,6 @@ local animations = {
     {name = "Tabby Tackle", id = 139170540242188, speed = 1, timepos = 0,},
     {name = "Sinking", id = 93193438936298, speed = 1, timepos = 0,},
     {name = "SeeTheseHipsSways", id = 75911996257792, speed = 1, timepos = 0,},
-    {name = "SeGratterLeCul", id = 698251653, speed = 0.45, timepos = 0.78, duration = 0.23},
-    {name = "AncienJerkOff", id = 698251653, speed = 0.30, timepos = 0.59, duration = 0.17},
 }
 
 local activeTracks = {}
