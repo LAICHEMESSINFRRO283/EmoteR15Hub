@@ -601,6 +601,7 @@ local animations = {
     {name = "FloorPhase", id = 130650650773766, speed = 1, timepos = 0,},
     {name = "BiggestTallestAvatar", id = 93206392584401, speed = 1, timepos = 0,},
     {name = "LegShaker", id = 125856989235850, speed = 1, timepos = 0,},
+    {name = "BimBamBoom", id = 89776651945135, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
