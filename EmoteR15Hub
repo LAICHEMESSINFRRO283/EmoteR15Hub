@@ -598,6 +598,9 @@ local animations = {
     {name = "Tabby Tackle", id = 139170540242188, speed = 1, timepos = 0,},
     {name = "Sinking", id = 93193438936298, speed = 1, timepos = 0,},
     {name = "SeeTheseHipsSways", id = 75911996257792, speed = 1, timepos = 0,},
+    {name = "FloorPhase", id = 130650650773766, speed = 1, timepos = 0,},
+    {name = "BiggestTallestAvatar", id = 93206392584401, speed = 1, timepos = 0,},
+    {name = "LegShaker", id = 125856989235850, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
