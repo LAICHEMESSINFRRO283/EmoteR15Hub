@@ -599,6 +599,8 @@ local animations = {
     {name = "FloorPhase", id = 130650650773766, speed = 1, timepos = 0,},
     {name = "BiggestTallestAvatar", id = 93206392584401, speed = 1, timepos = 0,},
     {name = "LegShaker", id = 125856989235850, speed = 1, timepos = 0,},
+    {name = "RussianSoldierSalute", id = 126301695335812, speed = 0, timepos = 1,},
+    {name = "Zany", id = 117309519279783, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
