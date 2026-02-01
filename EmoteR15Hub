@@ -600,6 +600,7 @@ local animations = {
     {name = "LegShaker", id = 125856989235850, speed = 1, timepos = 0,},
     {name = "RussianSoldierSalute", id = 126301695335812, speed = 0, timepos = 1,},
     {name = "Zany", id = 117309519279783, speed = 1, timepos = 0,},
+    {name = "WolfIrliniqueDance", id = 123536918725562, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
