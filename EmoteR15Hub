@@ -584,7 +584,6 @@ local animations = {
     {name = "WolfIrliniqueDance", id = 123536918725562, speed = 1, timepos = 0,},
     {name = "BrunoBestPrime", id = 126090401307750, speed = 1, timepos = 0,},
     {name = "MarshWalk", id = 81050941678872, speed = 1, timepos = 0,},
-    {name = "GoofyDory", id = 131277177836174, speed = 1, timepos = 0,},
     {name = "ClownAscend", id = 138303063082421, speed = 1, timepos = 0,},
     {name = "Ska-Tra terrestial", id = 105510919646688, speed = 1, timepos = 0,},
 }
