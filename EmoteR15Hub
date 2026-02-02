@@ -587,7 +587,6 @@ local animations = {
     {name = "GoofyDory", id = 131277177836174, speed = 1, timepos = 0,},
     {name = "ClownAscend", id = 138303063082421, speed = 1, timepos = 0,},
     {name = "Ska-Tra terrestial", id = 105510919646688, speed = 1, timepos = 0,},
-    {name = "ClownAscend", id = 138303063082421, speed = 1, timepos = 0,},
 }
 
 local activeTracks = {}
