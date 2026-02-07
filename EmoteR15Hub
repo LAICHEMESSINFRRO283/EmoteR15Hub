@@ -587,9 +587,11 @@ local animations = {
     {name = "ClownAscend", id = 138303063082421, speed = 1, timepos = 0,},
     {name = "Ska-Tra terrestial", id = 105510919646688, speed = 1, timepos = 0,},
     {name = "ShakeThatSillyThing", id = 134761694742186, speed = 1, timepos = 0,},
-    {name = "NeedyDrop", id = 115311298653445, speed = 1, timepos = 0,},
     {name = "FakeLag", id = 140407336134597, speed = 1, timepos = 0,},
-}
+    {name = "Seizure", id = 103366638458029, speed = 1, timepos = 0,},
+    {name = "NeedyDrop", id = 89508532639106, speed = 1, timepos = 0,},
+
+} 
 
 local activeTracks = {}
 
