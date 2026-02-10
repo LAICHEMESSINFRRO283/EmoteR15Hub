@@ -591,6 +591,7 @@ local animations = {
     {name = "Seizure", id = 103366638458029, speed = 1, timepos = 0,},
     {name = "NeedyDrop", id = 89508532639106, speed = 1, timepos = 0,},
     {name = "PoliteToss", id = 114004742673145, speed = 1, timepos = 0,},
+    {name = "PoliteToss", id = 75339926258254, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
