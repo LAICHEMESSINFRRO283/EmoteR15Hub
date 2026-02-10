@@ -171,6 +171,7 @@ local animations = {
     {name = "Flopping Fish", id = 79075971527754, speed = 1, timepos = 0},
     {name = "Gangnam Style", id = 100531289776679, speed = 1, timepos = 0},
     {name = "Caramelldansen", id = 88315693621494, speed = 1, timepos = 0},
+    {name = "Caramelldansenv3", id = 97089862906694, speed = 1, timepos = 0},
     {name = "subject v3", id = 117374801851126, speed = 0.9, timepos = 0},
     {name = "Heart Left", id = 110936682778213, speed = 0, timepos = 0},
     {name = "Heart Right", id = 84671941093489, speed = 0, timepos = 0},
@@ -591,9 +592,11 @@ local animations = {
     {name = "Seizure", id = 103366638458029, speed = 1, timepos = 0,},
     {name = "NeedyDrop", id = 89508532639106, speed = 1, timepos = 0,},
     {name = "PoliteToss", id = 114004742673145, speed = 1, timepos = 0,},
-    {name = "PoliteToss", id = 75339926258254, speed = 1, timepos = 0,},
+    {name = "LiberianGirl", id = 75339926258254, speed = 1, timepos = 0,},
     {name = "lightPost", id = 136418721245851, speed = 1, timepos = 0,},
     {name = "BaddieCircleShake", id = 135376114228536, speed = 1, timepos = 0,},
+    {name = "ClearyJustStreching", id = 112800208994466, speed = 1, timepos = 0,},
+    {name = "ThankyouSex", id = 107324155819369, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
