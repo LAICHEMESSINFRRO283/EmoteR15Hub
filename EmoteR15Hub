@@ -591,6 +591,7 @@ local animations = {
     {name = "ThankyouSex", id = 107324155819369, speed = 1, timepos = 0,},
     {name = "NeedyBouncyShake", id = 117746789428885, speed = 1, timepos = 0,},
     {name = "LowCortisolDance", id = 77387643699357, speed = 1, timepos = 0,},
+    {name = "Infectious", id = 74206160331691, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
