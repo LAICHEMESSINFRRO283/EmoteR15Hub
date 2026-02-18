@@ -595,6 +595,7 @@ local animations = {
     {name = "AstroHappyDance", id = 101441052430179, speed = 1, timepos = 0,},
     {name = "AstroHappyDanceV2", id = 110747487582579, speed = 1, timepos = 0,},
     {name = "Fireball", id = 81711013922363, speed = 1, timepos = 0,},
+    {name = "Skibidi", id = 93589735739944, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
