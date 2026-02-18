@@ -574,7 +574,6 @@ local animations = {
     {name = "FloorPhase", id = 130650650773766, speed = 1, timepos = 0,},
     {name = "BiggestTallestAvatar", id = 93206392584401, speed = 1, timepos = 0,},
     {name = "LegShaker", id = 125856989235850, speed = 1, timepos = 0,},
-    {name = "RussianSoldierSalute", id = 126301695335812, speed = 0, timepos = 1,},
     {name = "Zany", id = 117309519279783, speed = 1, timepos = 0,},
     {name = "WolfIrliniqueDance", id = 123536918725562, speed = 1, timepos = 0,},
     {name = "BrunoBestPrime", id = 126090401307750, speed = 1, timepos = 0,},
@@ -595,6 +594,7 @@ local animations = {
     {name = "BraletteEspagnol ", id = 79901098300831, speed = 1, timepos = 0, duration = 1.5},
     {name = "ShakeThatAss", id = 74106192487650, speed = 1, timepos = 0,},
     {name = "AstroHappyDance", id = 101441052430179, speed = 1, timepos = 0,},
+    {name = "Fireball", id = 81711013922363, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
