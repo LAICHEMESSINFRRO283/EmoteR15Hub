@@ -169,7 +169,7 @@ local animations = {
     {name = "Da Hood Dance", id = 108171959207138, speed = 1, timepos = 0},
     {name = "Da Hood Stomp", id = 115048845533448, speed = 1.4, timepos = 0},
     {name = "Flopping Fish", id = 79075971527754, speed = 1, timepos = 0},
-    {name = "Gangnam Style", id = 78801539668900, speed = 1, timepos = 0},
+    {name = "Gangnam Style", id = 78801539668900, speed = 1, timepos = 2, duration= 8},
     {name = "Caramelldansen v1", id = 88315693621494, speed = 1, timepos = 0},
     {name = "Caramelldansen v2", id = 80316917876772, speed = 1, timepos = 0},
     {name = "Caramelldansen v3", id = 97089862906694, speed = 1, timepos = 0},
