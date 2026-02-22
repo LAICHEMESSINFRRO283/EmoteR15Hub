@@ -580,6 +580,7 @@ local animations = {
     {name = "Ma-Ya-Hi", id = 124627193048193, speed = 1, timepos = 0,},
     {name = "Fireball", id = 81711013922363, speed = 1, timepos = 0,},
     {name = "Skibidi", id = 93589735739944, speed = 1, timepos = 0,},
+    {name = "BigGuy", id = 94648750036148, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
