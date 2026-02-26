@@ -582,6 +582,7 @@ local animations = {
     {name = "BigGuy", id = 94648750036148, speed = 1, timepos = 0,},
     {name = "NeedtBaddieHipBounce", id = 114792486807025, speed = 1, timepos = 0,},
     {name = "DanceAllNight", id = 105525419218793, speed = 1, timepos = 0,},
+    {name = "Floss", id = 88868117905823, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
