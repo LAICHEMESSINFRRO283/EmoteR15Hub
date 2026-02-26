@@ -227,7 +227,7 @@ local animations = {
     {name = "tank", id = 94915612757079, speed = 1, timepos = 0},
     {name = "sponge dance", id = 72248021897603, speed = 1, timepos = 0},
     {name = "orange justice", id = 95127716920692, speed = 1, timepos = 0},
-    {name = "miku dance", id = 103112800578947, speed = 1, timepos = 0},
+    {name = "mikuBeam", id = 127187333329533, speed = 1, timepos = 0},
     {name = "corrupted entity", id = 99829515790878, speed = 1, timepos = 0},
     {name = "dab", id = 88596501983638, speed = 1, timepos = 0},
     {name = "picke rick dance", id = 71911684622445, speed = 1, timepos = 0},
@@ -582,6 +582,7 @@ local animations = {
     {name = "Skibidi", id = 93589735739944, speed = 1, timepos = 0,},
     {name = "BigGuy", id = 94648750036148, speed = 1, timepos = 0,},
     {name = "NeedtBaddieHipBounce", id = 114792486807025, speed = 1, timepos = 0,},
+    {name = "DanceAllNight", id = 105525419218793, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
