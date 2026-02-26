@@ -576,7 +576,6 @@ local animations = {
     {name = "NeedyBouncyShake", id = 117746789428885, speed = 1, timepos = 0,},
     {name = "LowCortisolDance", id = 77387643699357, speed = 1, timepos = 0,},
     {name = "Infectious", id = 74206160331691, speed = 1, timepos = 0,},
-    {name = "ShakeThatAss", id = 74106192487650, speed = 1, timepos = 0,},
     {name = "Ma-Ya-Hi", id = 124627193048193, speed = 1, timepos = 0,},
     {name = "Fireball", id = 81711013922363, speed = 1, timepos = 0,},
     {name = "Skibidi", id = 93589735739944, speed = 1, timepos = 0,},
