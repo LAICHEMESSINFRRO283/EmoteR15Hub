@@ -522,7 +522,7 @@ local animations = {
     {name = "Odetari", id = 122940267485249, speed = 1, timepos = 0},
     {name = "Invisbile works every game", id = 108210268078796, speed = 1, timepos = 0},
     {name = "HitlerSalute", id = 134450935997608, speed = 1, timepos = 0},
-    {name = "CircleTwerk1", id = 134819509283179, speed = 1, timepos = 0},
+    {name = "CircleTwerk1", id = 109635225135504, speed = 1, timepos = 0},
     {name = "BecomeAChair", id = 115867121999967, speed = 1, timepos = 0},
     {name = "TumbalaTum", id = 132648337074933, speed = 1, timepos = 0},
     {name = "HeadSlug", id = 87620748199098, speed = 1, timepos = 0},
