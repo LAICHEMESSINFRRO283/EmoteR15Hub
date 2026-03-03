@@ -584,6 +584,8 @@ local animations = {
     {name = "DanceAllNight", id = 105525419218793, speed = 1, timepos = 0,},
     {name = "Floss", id = 88868117905823, speed = 1, timepos = 0,},
     {name = "I came To Groove", id = 86836626230626, speed = 1, timepos = 0,},
+    {name = "HipsCircle", id = 111999316987325, speed = 1, timepos = 0,},
+    {name = "NeedyCircleArsh", id = 91152932439976, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
