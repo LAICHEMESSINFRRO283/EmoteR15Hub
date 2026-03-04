@@ -398,7 +398,7 @@ local animations = {
     {name = "Become Invisible Emote", id = 101265429230273, speed = 1, timepos = 0},
     {name = "GangstaWalk", id = 114292708300365, speed = 1, timepos = 0},
     {name = "Wind Up", id = 76877722651620, speed = 1, timepos = 0},
-    {name = "TheQuickStyle", id = 74804430904049, speed = 1, timepos = 0},
+    {name = "TheQuickStyle", id = 74804430904049, speed = 1.1, timepos = 0},
     {name = "FireWork", id = 100250289150692, speed = 1, timepos = 0},
     {name = "Punches", id = 113934433970122, speed = 1, timepos = 0},
     {name = "ItSpookyMonth", id = 74986450260207, speed = 1, timepos = 0},
