@@ -286,6 +286,7 @@ local animations = {
     {name = "Smoothmoves", id = 116169420916677, speed = 1, timepos = 0},
     {name = "BhopCsgo", id = 127915306032185, speed = 1, timepos = 0},
     {name = "IwannaRunAway", id = 76459424967458, speed = 4, timepos = 0, duration = 1.18},
+    {name = "IwannaRunAwaySlowed", id = 76459424967458, speed = 0.8, timepos = 0, duration = 6},
     {name = "Sparrow run", id = 74465743370973, speed = 1, timepos = 0},
     {name = "RickRoll", id = 140227358898207, speed = 1, timepos = 0},
     {name = "Pray", id = 81284540778909, speed = 1, timepos = 0},
