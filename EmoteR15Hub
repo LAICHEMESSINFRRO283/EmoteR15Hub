@@ -587,6 +587,7 @@ local animations = {
     {name = "I came To Groove", id = 86836626230626, speed = 1, timepos = 0,},
     {name = "HipsCircle", id = 111999316987325, speed = 1, timepos = 0,},
     {name = "NeedyCircleArsh", id = 91152932439976, speed = 1, timepos = 0,},
+    {name = "IseeKaremGroove", id = 115959192497259, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
