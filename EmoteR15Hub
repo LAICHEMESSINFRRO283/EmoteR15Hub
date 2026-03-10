@@ -590,6 +590,7 @@ local animations = {
     {name = "SaoPauloDance", id = 135058366788535, speed = 1, timepos = 0,},
     {name = "SideKick", id = 121305552792484, speed = 1, timepos = 0,},
     {name = "LowCortisol", id = 100253510018322, speed = 1, timepos = 0,},
+    {name = "KidTantrum", id = 86339673982616, speed = 1, timepos = 0,},
 } 
 
 local activeTracks = {}
